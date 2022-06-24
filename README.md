@@ -6,12 +6,23 @@ This template is made to save on configuring a love 2d project, feel comfortable
 
 # Third Party Resources
 <li>
+  Game Engine
   <ul>       
     <li>
       Love2D = https://love2d.org/    
      </li>
     <li>
+      
+    </li>
+  </ul>
+  
+  <ul>
+    Libraries And Scripts
+    <li>
       Lume = https://github.com/rxi/lume    
+     </li>
+    <li>
+         
     </li>
   </ul>
 </li>

@@ -6,7 +6,6 @@ This template is made to save on configuring a love 2d project, feel comfortable
 
 # Third Party Resources
 <li>
-  <a href="#about-the-project">About The Project</a>
   <ul>       
     <li>
       Love2D = https://love2d.org/    

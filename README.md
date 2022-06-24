@@ -6,11 +6,13 @@ This template is made to save on configuring a love 2d project, feel comfortable
 
 # Third Party Resources
 <li>
-  Lume = https://github.com/rxi/lume
-  Love2D = https://love2d.org/
   <a href="#about-the-project">About The Project</a>
   <ul>       
-    <li><a href="#built-with">Built With</a></li>
-    <li><a href="#built-with">Built With</a></li>
+    <li>
+      Love2D = https://love2d.org/    
+     </li>
+    <li>
+      Lume = https://github.com/rxi/lume    
+    </li>
   </ul>
 </li>

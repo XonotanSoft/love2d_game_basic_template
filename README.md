@@ -10,7 +10,10 @@ This template is made to save on configuring a love 2d project, feel comfortable
   <ul>       
     <li>
       Love2D = https://love2d.org/    
-     </li>
+    </li>
+    <li>
+      Lua = https://www.lua.org/
+    </li> 
   </ul>
 </li>
 

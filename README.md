@@ -12,10 +12,13 @@ This template is made to save on configuring a love 2d project, feel comfortable
       Love2D = https://love2d.org/    
      </li>
   </ul>
+</li>
+
+<li>
   Libraries And Scripts
   <ul>
     <li>
       Lume = https://github.com/rxi/lume    
     </li>
-  </ul>
+  </ul>  
 </li>

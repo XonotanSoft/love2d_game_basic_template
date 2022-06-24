@@ -7,3 +7,9 @@ This template is made to save on configuring a love 2d project, feel comfortable
 # Third Party Resources
 Lume = https://github.com/rxi/lume
 Love2D = https://love2d.org/
+<li>
+  <a href="#about-the-project">About The Project</a>
+  <ul>       
+    <li><a href="#built-with">Built With</a></li>
+  </ul>
+</li>

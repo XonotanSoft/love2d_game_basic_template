@@ -12,9 +12,8 @@ This template is made to save on configuring a love 2d project, feel comfortable
       Love2D = https://love2d.org/    
      </li>
   </ul>
-  
+  Libraries And Scripts
   <ul>
-    Libraries And Scripts
     <li>
       Lume = https://github.com/rxi/lume    
     </li>
